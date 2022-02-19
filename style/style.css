@@ -7,7 +7,7 @@
 .clear {
   content: "";
   clear: both;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
 }
 
 .carousel-indicators [data-bs-target] {
@@ -54,5 +54,8 @@
   border-radius: 15px;
   height: 12px;
   background: linear-gradient(to right, #e9a91e, #ee6110);
-  margin: 20px auto;
+  margin: 20px auto 50px auto;
+}
+.categores .card {
+  cursor: pointer;
 }
