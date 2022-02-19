@@ -44,3 +44,15 @@
   box-shadow: #0000002b 1px 1px 20px;
   border-radius: 10px;
 }
+.smart-phone-section {
+  background-image: url("../images/bg-2.png");
+  background-repeat: no-repeat;
+}
+/* category  */
+.category-bar {
+  width: 100px;
+  border-radius: 15px;
+  height: 12px;
+  background: linear-gradient(to right, #e9a91e, #ee6110);
+  margin: 20px auto;
+}
